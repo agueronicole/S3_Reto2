@@ -1,0 +1,8 @@
+.shipping-methods {
+    display: flex; 
+    flex-direction: column;
+}
+
+.shipping-methods div {
+    display: flex;
+}
